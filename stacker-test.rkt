@@ -1,4 +1,6 @@
 #lang reader "stacker-lang.rkt"
-42
-"Hello World"
-#t
+push 4
+push 8
++
+push 3
+*
