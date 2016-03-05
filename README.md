@@ -1,7 +1,7 @@
 # Stacker-lang
 ####A stack based domain-specific language implemented in Racket 
 
-The language takes in arguments in the form of a stack and each operator applies itself to the 2 numbers above it.
+The language takes in arguments in the form of a stack and each operator applies itself to the 2 numbers/expressions above it.
 
 For example, the expressions:
 -  push 5
