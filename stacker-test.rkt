@@ -3,4 +3,4 @@ push 4
 push 8
 +
 push 3
-*
+* ;; should produce 36
