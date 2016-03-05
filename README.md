@@ -17,7 +17,7 @@ translate to (5 + 6) * 3 in 'normal' math notation.
 - Begin your source file with "#lang reader "stacker-lang.rkt""
 - Code away!
 
-###todo:
+####todo:
 - Add support for arbitrary number of arguments to primary operators
 
-##### Credits: beautifulracket.com
+###### Credits: beautifulracket.com
