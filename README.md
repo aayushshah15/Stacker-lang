@@ -19,3 +19,5 @@ translate to (5 + 6) * 3 in 'normal' math notation.
 
 ###todo:
 - Add support for arbitrary number of arguments to primary operators
+
+##### Credits: beautifulracket.com
