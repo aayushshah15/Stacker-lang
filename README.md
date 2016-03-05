@@ -13,7 +13,7 @@ For example, the expressions:
 translate to (5 + 6) * 3 in 'normal' math notation. 
 
 ## Usage:
-- Download the file "stacker-lang.rkt" and place it inside the same directory as the file with Stacker source code.
+- Download/clone the repo and place the file "stacker-lang.rkt" inside the same directory as the file with Stacker source code.
 - Begin your source file with "#lang reader "stacker-lang.rkt""
 - Code away!
 
